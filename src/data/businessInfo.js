@@ -43,17 +43,17 @@ export const businessInfo = {
 // Until all seven days are filled in, the site shows "Opening hours not yet available",
 // never an open/closed status, and leaves opening hours out of the structured data.
 weeklyHours: [
-  { days: "Monday - Saturday", hours: "7:00 AM - 9:00 PM" },
+  { days: "Monday - Saturday", hours: "8:30 AM - 9:30 PM" },
   { days: "Sunday", hours: "Closed" },
 ]
 
 export const weeklyHours = {
-  monday: {open: '07:00', close: '21:00'},
-  tuesday: {open: '07:00', close: '21:00'},
-  wednesday: {open: '07:00', close: '21:00'},
-  thursday: {open: '07:00', close: '21:00'},
-  friday: {open: '07:00', close: '21:00'},
-  saturday: {open: '07:00', close: '21:00'},
+  monday: {open: '08:30', close: '21:30'},
+  tuesday: {open: '08:30', close: '21:30'},
+  wednesday: {open: '08:30', close: '21:30'},
+  thursday: {open: '08:30', close: '21:30'},
+  friday: {open: '08:30', close: '21:30'},
+  saturday: {open: '08:30', close: '21:30'},
   sunday: {closed:true, closed:true},
 };
 
