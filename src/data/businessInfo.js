@@ -11,9 +11,9 @@ export const businessInfo = {
 
   // --- FILL THESE IN (leave "" until verified) ---
   phone: '0810 997 6506', // display format, e.g. "0801 234 5678"
-  whatsappNumber: '234819976506', // international format, digits only, e.g. "2348012345678"
+  whatsappNumber: '2348109976506', // international format, digits only, e.g. "2348012345678"
   facebookUrl: 'https://www.facebook.com/profile.php?id=61557347282633', // e.g. "https://www.facebook.com/your-page"
-  email: ' Godsfounda84@gmail.com', // e.g. "info@yourdomain.com"
+  email: 'Godsfounda84@gmail.com', // e.g. "info@yourdomain.com"
   streetAddress: '22 Rahabilitation Road Opposite our Lady Catholic Church, Emene Enugu.', // exact, verified street address
   mapsUrl: 'https://maps.app.goo.gl/uxyH9e5vLkbf5kbFA', // Google Maps link to the verified shop location
   latitude: '', // verified coordinates, optional (used only in JSON-LD)
