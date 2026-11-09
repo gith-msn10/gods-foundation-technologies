@@ -20,9 +20,9 @@ export const businessInfo = {
   longitude: '',
   siteUrl: '', // e.g. "https://www.yourdomain.com" (no trailing slash)
   logoUrl: '/images/branding/gft-logo/favicon.svg', // absolute URL or path to a real logo file, optional
-  heroImage: '/public/images/branding/hero.jpg', // path in /public/images, e.g. "/images/branding/hero.webp"
-  heroImageAlt: '',
-  aboutPhoto: '/public/images/branding/store.jpg', // genuine photo of the store or owner, e.g. "/images/branding/store.webp"
+  heroImage: '/images/branding/hero.jpg', // path in /public/images, e.g. "/images/branding/hero.webp"
+  heroImageAlt: 'store image',
+  aboutPhoto: '/images/branding/store.jpg', // genuine photo of the store or owner, e.g. "/images/branding/store.webp"
   aboutPhotoAlt: 'business owner',
 
   // --- Opening hours: see the instructions in the block below ---
