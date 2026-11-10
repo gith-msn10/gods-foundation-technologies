@@ -18,7 +18,7 @@ export const businessInfo = {
   mapsUrl: 'https://maps.app.goo.gl/uxyH9e5vLkbf5kbFA', // Google Maps link to the verified shop location
   latitude: '', // verified coordinates, optional (used only in JSON-LD)
   longitude: '',
-  siteUrl: '', // e.g. "https://www.yourdomain.com" (no trailing slash)
+  siteUrl: 'https://www.gftdigital.com.ng', // e.g. "https://www.yourdomain.com" (no trailing slash)
   logoUrl: '/images/branding/gft-logo/favicon.svg', // absolute URL or path to a real logo file, optional
   heroImage: '/images/branding/hero.jpg', // path in /public/images, e.g. "/images/branding/hero.webp"
   heroImageAlt: 'store image',
