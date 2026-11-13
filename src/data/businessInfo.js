@@ -13,9 +13,9 @@ export const businessInfo = {
   phone: '0810 997 6506', // display format, e.g. "0801 234 5678"
   whatsappNumber: '2348109976506', // international format, digits only, e.g. "2348012345678"
   facebookUrl: 'https://www.facebook.com/profile.php?id=61557347282633', // e.g. "https://www.facebook.com/your-page"
-  email: 'Godsfounda84@gmail.com', // e.g. "info@yourdomain.com"
+  email: 'foundationgods69@gmail.com', // e.g. "info@yourdomain.com"
   streetAddress: '22 Rahabilitation Road Opposite our Lady Catholic Church, Emene Enugu.', // exact, verified street address
-  mapsUrl: 'https://maps.app.goo.gl/uxyH9e5vLkbf5kbFA', // Google Maps link to the verified shop location
+  mapsUrl: 'https://maps.app.goo.gl/z4ixJr6kyLUB65qR9', // Google Maps link to the verified shop location
   latitude: '', // verified coordinates, optional (used only in JSON-LD)
   longitude: '',
   siteUrl: 'https://www.gftdigital.com.ng', // e.g. "https://www.yourdomain.com" (no trailing slash)
@@ -43,17 +43,17 @@ export const businessInfo = {
 // Until all seven days are filled in, the site shows "Opening hours not yet available",
 // never an open/closed status, and leaves opening hours out of the structured data.
 weeklyHours: [
-  { days: "Monday - Saturday", hours: "8:30 AM - 9:30 PM" },
+  { days: "Monday - Saturday", hours: "8:30 AM - 9:00 PM" },
   { days: "Sunday", hours: "Closed" },
 ]
 
 export const weeklyHours = {
-  monday: {open: '08:30', close: '21:30'},
-  tuesday: {open: '08:30', close: '21:30'},
-  wednesday: {open: '08:30', close: '21:30'},
-  thursday: {open: '08:30', close: '21:30'},
-  friday: {open: '08:30', close: '21:30'},
-  saturday: {open: '08:30', close: '21:30'},
+  monday: {open: '08:30', close: '21:00'},
+  tuesday: {open: '08:30', close: '21:00'},
+  wednesday: {open: '08:30', close: '21:00'},
+  thursday: {open: '08:30', close: '21:00'},
+  friday: {open: '08:30', close: '21:00'},
+  saturday: {open: '08:30', close: '21:00'},
   sunday: {closed:true, closed:true},
 };
 
